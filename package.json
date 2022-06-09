@@ -1,29 +1,3 @@
 {
-  "name": "freecodecamp-back-end-certification",
-  "version": "1.0.0",
-  "description": "Free Code Camp Back End Certification",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SuloLabs/freecodecamp-back-end-certification.git"
-  },
-  "keywords": [
-    "Courses",
-    "Free",
-    "Code",
-    "Camp",
-    "Study",
-    "Learning",
-    "Professional",
-    "Development"
-  ],
-  "author": "Jeffrey Scott Martin",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SuloLabs/freecodecamp-back-end-certification/issues"
-  },
-  "homepage": "https://github.com/SuloLabs/freecodecamp-back-end-certification#readme"
+  "author": "Jeffrey Scott Martin"
 }
